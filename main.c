@@ -22,17 +22,17 @@
 // ==========================
 // WIFI
 // ==========================
-#define WIFI_SSID     "A36 de Thiago"
-#define WIFI_PASSWORD "yixo6600"
+#define WIFI_SSID     "SUAREDE"
+#define WIFI_PASSWORD "SENHADAREDE"
 
 // ==========================
 // FIREBASE
 // ==========================
-#define Web_API_KEY  "AIzaSyBc_Muebv5qcDu-Se-xBYOGaSt32MYmqdE"
-#define DATABASE_URL "https://projeto-esp-d6c1d-default-rtdb.firebaseio.com//"
+#define Web_API_KEY  "APIKEY"
+#define DATABASE_URL "DATABASEURL"
 
-#define USER_EMAIL "thiago.ewerton.05@gmail.com"
-#define USER_PASS  "123456789"
+#define USER_EMAIL "EMAIL"
+#define USER_PASS  "SENHA"
 
 // ==========================
 // BOTÕES
